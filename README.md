@@ -11,4 +11,4 @@
 
 
 -->
-<img src="[![NotBlazee's github stats](https://github-readme-stats.vercel.app/api?username=NotBlazee)](https://github.com/NotBlazee/github-readme-stats)">
+***Thanks for reading!***
