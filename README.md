@@ -11,5 +11,5 @@
 
 
 --> ![NotBlazee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NotBlazee&show_icons=true&theme=gruvbox)
-<img align="center" alt="NotBlazee's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotBlazee&langs_count=8&layout=compact" />
+
 ***Thanks for reading!***
