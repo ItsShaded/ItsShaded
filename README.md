@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on HTML
-- 🌱 I’m currently learning CSS and HTML
+- 🔭 I’m currently working on CSS
+- 🌱 I’m currently learning advanced JavaScript and CSS
 - 👯 I’m looking to collaborate on discord.
 - 🤔 I’m looking for help with your HTML and CSS issues.
 - 💬 Ask me about tech related stuff.
