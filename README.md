@@ -20,6 +20,6 @@
 
 -----
 
-![NotBlazee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NotBlazee&show_icons=true&theme=gruvbox)
+![Blaze's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NotBlazee&show_icons=true&theme=gruvbox)
 
 --> ***Thanks for reading!***
