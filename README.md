@@ -13,12 +13,12 @@ My secret info 👀
 
 ## Hello, I am Blaze! <img src="https://github.com/HyperText-Blaze/HyperText-Blaze/blob/main/WaveIcon.gif" width="30px">
 
-- 🔭 I’m currently working on CSS
-- 🌱 I’m currently learning advanced JavaScript and CSS
+- 🔭 I’m currently working on Javascript.
+- 🌱 I’m currently learning advanced JavaScript and CSS.
 - 👯 I’m looking to collaborate on discord.
 - 🤔 I’m looking for help with your HTML and CSS issues.
 - 💬 Ask me about tech related stuff.
-- 📫 How to reach me: Message me on discord. Username: **𝙱𝚕𝚊𝚣𝚎#7191**
+- 📫 How to reach me: Message me on discord. Username: **𝙱𝚕𝚊𝚣𝚎#0001**
 
 ### Languages:
 <div style="display: flex;">
@@ -40,6 +40,3 @@ My secret info 👀
   <summary><b>GitHub</b> Activity</summary>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=HyperText-Blaze&theme=tokyonight%22%3E%3Cimg%20align=%22right%22%20src=%22https://github-readme-stats.vercel.app/api/top-langs/?username=HyperText-Blaze&theme=tokyonight&hide=batchfile">
 </details>
-
-
---> ***Thanks for reading!***
