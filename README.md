@@ -1,7 +1,17 @@
-### Hi there 👋
+<!-- You found this secret, Grats! 👏 -->
+<!--
+My secret info 👀 
+
+- I code for about 5-6 hours
+- I am a gamer too lol
+- I play minecraft, among us (sometimes)
+-->
+
 
 <h1 align="center">Who am I?</h1>
 <div align="center"><img src="https://github.com/HyperText-Blaze/HyperText-Blaze/blob/main/standard.gif"></div>
+
+## Hello, I am Blaze! <img src="https://github.com/HyperText-Blaze/HyperText-Blaze/blob/main/WaveIcon.gif" width="30px">
 
 - 🔭 I’m currently working on CSS
 - 🌱 I’m currently learning advanced JavaScript and CSS
@@ -21,6 +31,15 @@
 
 -----
 
-![Blaze's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HyperText-Blaze&show_icons=true&theme=gruvbox)
+![Profile Views](https://komarev.com/ghpvc/?username=HyperText-Blaze&color=blueviolet)
+
+## Stats
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=HyperText-Blaze&theme=dracula"></div>
+
+<details>
+  <summary><b>GitHub</b> Activity</summary>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=HyperText-Blaze&theme=tokyonight%22%3E%3Cimg%20align=%22right%22%20src=%22https://github-readme-stats.vercel.app/api/top-langs/?username=HyperText-Blaze&theme=tokyonight&hide=batchfile">
+</details>
+
 
 --> ***Thanks for reading!***
