@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-
+<h1 align="center">Who am I?</h1>
+<div align="center"><img src="https://github.com/HyperText-Blaze/HyperText-Blaze/blob/main/standard.gif"></div>
 
 - 🔭 I’m currently working on CSS
 - 🌱 I’m currently learning advanced JavaScript and CSS
@@ -20,6 +21,6 @@
 
 -----
 
-![Blaze's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NotBlazee&show_icons=true&theme=gruvbox)
+![Blaze's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HyperText-Blaze&show_icons=true&theme=gruvbox)
 
 --> ***Thanks for reading!***
