@@ -11,14 +11,14 @@ My secret info 👀
 <h1 align="center">Who am I?</h1>
 <div align="center"><img src="https://github.com/HyperText-Blaze/HyperText-Blaze/blob/main/standard.gif"></div>
 
-## Hello, I am Blaze! <img src="https://github.com/HyperText-Blaze/HyperText-Blaze/blob/main/WaveIcon.gif" width="30px">
+## Hello, I am 𝚂𝚑𝚊𝚍𝚎𝚍! <img src="https://github.com/HyperText-Blaze/HyperText-Blaze/blob/main/WaveIcon.gif" width="30px">
 
 - 🔭 I’m currently working on Javascript.
 - 🌱 I’m currently learning advanced JavaScript and CSS.
 - 👯 I’m looking to collaborate on discord.
 - 🤔 I’m looking for help with your HTML and CSS issues.
 - 💬 Ask me about tech related stuff.
-- 📫 How to reach me: Message me on discord. Username: **𝙱laze#0001**
+- 📫 How to reach me: Message me on discord. Username: **𝚂𝚑𝚊𝚍𝚎𝚍#5533**
 
 ### Languages:
 <div style="display: flex;">
@@ -31,12 +31,12 @@ My secret info 👀
 
 -----
 
-![Profile Views](https://komarev.com/ghpvc/?username=HyperText-Blaze&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=ItsArchfiend&color=blueviolet)
 
 ## Stats
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=HyperText-Blaze&theme=dracula"></div>
 
 <details>
   <summary><b>GitHub</b> Activity</summary>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=HyperText-Blaze&theme=tokyonight%22%3E%3Cimg%20align=%22right%22%20src=%22https://github-readme-stats.vercel.app/api/top-langs/?username=HyperText-Blaze&theme=tokyonight&hide=batchfile">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=HyperText-Blaze&theme=tokyonight%22%3E%3Cimg%20align=%22right%22%20src=%22https://github-readme-stats.vercel.app/api/top-langs/?username=ItsArchfiend&theme=tokyonight&hide=batchfile">
 </details>
