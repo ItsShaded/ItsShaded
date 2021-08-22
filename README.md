@@ -34,7 +34,7 @@ My secret info 👀
 ![Profile Views](https://komarev.com/ghpvc/?username=ItsArchfiend&color=blueviolet)
 
 ## Stats
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=HyperText-Blaze&theme=dracula"></div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ItsArchfiend&theme=dracula"></div>
 
 <details>
   <summary><b>GitHub</b> Activity</summary>
