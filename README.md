@@ -38,5 +38,5 @@ My secret info 👀
 
 <details>
   <summary><b>GitHub</b> Activity</summary>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=HyperText-Blaze&theme=tokyonight%22%3E%3Cimg%20align=%22right%22%20src=%22https://github-readme-stats.vercel.app/api/top-langs/?username=ItsArchfiend&theme=tokyonight&hide=batchfile">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ItsArchfiend&theme=tokyonight%22%3E%3Cimg%20align=%22right%22%20src=%22https://github-readme-stats.vercel.app/api/top-langs/?username=ItsArchfiend&theme=tokyonight&hide=batchfile">
 </details>
