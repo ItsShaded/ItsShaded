@@ -4,7 +4,7 @@ My secret info 👀
 
 - I code for about 5-6 hours
 - I am a gamer too lol
-- I play minecraft, among us (sometimes)
+- I also watch anime and manga
 -->
 
 
