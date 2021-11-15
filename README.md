@@ -18,7 +18,7 @@ My secret info 👀
 - 👯 I’m looking to collaborate on discord.
 - 🤔 I’m looking for help with your HTML and CSS issues.
 - 💬 Ask me about tech related stuff.
-- 📫 How to reach me: Message me on discord. Username: **𝚂𝚑𝚊𝚍𝚎𝚍#5533**
+- 📫 How to reach me: Message me on discord. Username: **why#4148**
 
 ### Languages:
 <div style="display: flex;">
