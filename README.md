@@ -7,7 +7,7 @@ My secret info 👀
 - I also watch anime and manga
 -->
 
-## Hello, I am 𝚂𝚑𝚊𝚍𝚎𝚍! <img src="https://github.com/ItsArchfiend/ItsShaded/blob/main/WaveIcon.gif" width="30px">
+## Hello, I am 𝚂𝚑𝚊𝚍𝚎𝚍! <img src="https://github.com/ItsArchfiend/ItsArchfiend/blob/main/WaveIcon.gif" width="30px">
 
 - 🔭 I’m currently working on Javascript.
 - 🌱 I’m currently learning advanced JavaScript and CSS.
