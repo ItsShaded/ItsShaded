@@ -7,7 +7,7 @@ My secret info 👀
 - I also watch anime and manga
 -->
 
-## Hello, I am 𝚂𝚑𝚊𝚍𝚎𝚍! <img src="https://github.com/ItsArchfiend/ItsArchfiend/blob/main/WaveIcon.gif" width="30px">
+## Hello, I am 𝚂𝚑𝚊𝚍𝚎𝚍! <img src="https://github.com/ItsArchfiend/ItsShaded/blob/main/WaveIcon.gif" width="30px">
 
 - 🔭 I’m currently working on Javascript.
 - 🌱 I’m currently learning advanced JavaScript and CSS.
@@ -27,12 +27,12 @@ My secret info 👀
 
 -----
 
-![Profile Views](https://komarev.com/ghpvc/?username=ItsArchfiend&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=ItsShaded&color=blueviolet)
 
 ## Stats
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ItsArchfiend&theme=dracula"></div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ItsShaded&theme=dracula"></div>
 
 <details>
   <summary><b>GitHub</b> Activity</summary>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ItsArchfiend&theme=tokyonight%22%3E%3Cimg%20align=%22right%22%20src=%22https://github-readme-stats.vercel.app/api/top-langs/?username=ItsArchfiend&theme=tokyonight&hide=batchfile">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ItsArchfiend&theme=tokyonight%22%3E%3Cimg%20align=%22right%22%20src=%22https://github-readme-stats.vercel.app/api/top-langs/?username=ItsShaded&theme=tokyonight&hide=batchfile">
 </details>
