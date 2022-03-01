@@ -9,9 +9,9 @@ My secret info 👀
 
 
 <h1 align="center">Who am I?</h1>
-<div align="center"><img src="https://github.com/HyperText-Blaze/HyperText-Blaze/blob/main/standard.gif"></div>
+<div align="center"><img src="https://github.com/ItsArchfiend/ItsArchfiend/blob/main/standard.gif"></div>
 
-## Hello, I am 𝚂𝚑𝚊𝚍𝚎𝚍! <img src="https://github.com/HyperText-Blaze/HyperText-Blaze/blob/main/WaveIcon.gif" width="30px">
+## Hello, I am 𝚂𝚑𝚊𝚍𝚎𝚍! <img src="https://github.com/ItsArchfiend/ItsArchfiend/blob/main/WaveIcon.gif" width="30px">
 
 - 🔭 I’m currently working on Javascript.
 - 🌱 I’m currently learning advanced JavaScript and CSS.
