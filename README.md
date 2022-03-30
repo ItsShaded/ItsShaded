@@ -35,6 +35,7 @@ I also love discovering and getting more information about new languages or fram
 ### Contact Me 🤝
 
 I'm available on **[Discord](https://discord.gg/wWUd6UV)**.
+My **[Discord](https://discord.gg/spgTFE9)** bots server.
 
 ### Github Statistic's 📊
 <a href="https://github.com/ItsShaded">
