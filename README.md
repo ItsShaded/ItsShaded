@@ -34,7 +34,7 @@ I also love discovering and getting more information about new languages or fram
 
 ### Contact Me 🤝
 
-I'm available on **[Discord](https://discord.gg/wWUd6UV)**.
+I'm available on **[Discord](https://discord.gg/wWUd6UV)**. <br>
 My **[Discord](https://discord.gg/spgTFE9)** bots server.
 
 ### Github Statistic's 📊
