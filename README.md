@@ -16,12 +16,6 @@ I love to watch anime and read mangas when I have free time or when I am not cod
 ## Stats
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ItsShaded&theme=dracula"></div>
 
-<details>
-  <summary><b>GitHub</b> Activity</summary>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ItsShaded&theme=tokyonight%22%3E%3Cimg%20align=%22right%22%20src=%22https://github-readme-stats.vercel.app/api/top-langs/?username=ItsShaded&theme=tokyonight&hide=batchfile">
-</details>
-
-
 ### Projects 📁
 
 * Almost all of my projects yet are open-sourced and are available on my github profile. *It's not alot atm 😅*
