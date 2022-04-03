@@ -9,7 +9,7 @@ My secret info 👀
 
 ## Hello, I am 𝚂𝚑𝚊𝚍𝚎𝚍! <img src="https://github.com/ItsArchfiend/ItsArchfiend/blob/main/WaveIcon.gif" width="30px">
 
-Welcome to my github page! I'm Shaded a code-enthusiast.
+Welcome to my github page! I'm Shaded, a code-enthusiast.
 
 I love to watch anime and read mangas when I have free time or when I am not coding / creating something..
 
