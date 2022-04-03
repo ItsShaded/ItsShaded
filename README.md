@@ -14,7 +14,7 @@ Welcome to my github page! I'm Shaded a code-enthusiast.
 I love to watch anime and read mangas when I have free time or when I am not coding / creating something..
 
 ## Stats
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ItsShaded&theme=dracula"></div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ItsShaded&theme=react"></div>
 
 ### Projects 📁
 
