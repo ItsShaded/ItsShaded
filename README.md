@@ -14,7 +14,14 @@ Welcome to my github page! I'm Shaded a code-enthusiast.
 I love to watch anime and read mangas when I have free time or when I am not coding / creating something..
 
 ## Stats
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ItsShaded&theme=react"></div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ItsShaded&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"></div>
+
+
+<p align="center">
+    <a href="https://github.com/Xiaotoxdev/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Xiaotoxdev's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Xiaotoxdev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 ### Projects 📁
 
