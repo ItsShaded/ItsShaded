@@ -45,7 +45,9 @@ I also love discovering and getting more information about new languages or fram
 I'm available on **[Discord](https://discord.gg/wWUd6UV)**. <br>
 My **[Discord](https://discord.gg/spgTFE9)** bots server.
 
-<a href="https://www.patreon.com/bePatron?u=72143073" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+<a href="https://www.patreon.com/bePatron?u=72143073">
+  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
 
 ### 📊 My Github Stats
 
