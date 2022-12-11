@@ -2,14 +2,14 @@
 <!--
 My secret info 👀 
 
-- I code for about 5-6 hours
+- I code for about 4-5 hours
 - I am a gamer too lol
 - I am  16 yr old
 -->
 
-## Hello, I am 𝚂𝚑𝚊𝚍𝚎𝚍! <img src="https://github.com/ItsArchfiend/ItsArchfiend/blob/main/WaveIcon.gif" width="30px">
+## Hello, I am Parth! <img src="https://github.com/ItsArchfiend/ItsArchfiend/blob/main/WaveIcon.gif" width="30px">
 
-Welcome to my github page! I'm Shaded, a code-enthusiast.
+Welcome to my github page! I'm Parth/Shaded, a code-enthusiast.
 
 I love to watch anime and read mangas when I have free time or when I am not coding / creating something..
 
